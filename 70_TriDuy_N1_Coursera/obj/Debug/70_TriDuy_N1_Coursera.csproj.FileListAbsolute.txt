@@ -1,17 +1,18 @@
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\selenium-manager\linux\selenium-manager
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\selenium-manager\macos\selenium-manager
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\selenium-manager\windows\selenium-manager.exe
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\70_TriDuy_N1_Shopee.exe.config
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\70_TriDuy_N1_Shopee.exe
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\70_TriDuy_N1_Shopee.pdb
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\Newtonsoft.Json.dll
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\WebDriver.dll
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\Newtonsoft.Json.xml
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\WebDriver.xml
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\_70_TriDuy_N1_Coursera.Form1.resources
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\_70_TriDuy_N1_Shopee.Properties.Resources.resources
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.GenerateResource.cache
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.CoreCompileInputs.cache
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.CopyComplete
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Shopee.exe
-D:\Software Testing\Coursera Testing\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Shopee.pdb
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\70_TriDuy_N1_Shopee.exe.config
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\70_TriDuy_N1_Shopee.exe
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\70_TriDuy_N1_Shopee.pdb
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\Newtonsoft.Json.dll
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\WebDriver.dll
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\Newtonsoft.Json.xml
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\bin\Debug\WebDriver.xml
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.AssemblyReference.cache
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\_70_TriDuy_N1_Coursera.Form1.resources
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\_70_TriDuy_N1_Shopee.Properties.Resources.resources
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.GenerateResource.cache
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.CoreCompileInputs.cache
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Coursera.csproj.CopyComplete
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Shopee.exe
+D:\Duy\SoftwareTesting\70_TriDuy_N1_Coursera\obj\Debug\70_TriDuy_N1_Shopee.pdb
