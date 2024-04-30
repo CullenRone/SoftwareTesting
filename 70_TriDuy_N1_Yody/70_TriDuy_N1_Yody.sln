@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.34729.46
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_TriDuy_N1_Yody", "70_TriDuy_N1_Yody.csproj", "{A3ACECEE-EDC7-476F-A8DE-FBB63D590718}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogin", "..\TestLogin\TestLogin.csproj", "{2DACFA89-1568-4282-827C-0BD3C32D97BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTimKiem", "..\TestTimKiem\TestTimKiem.csproj", "{181F072E-025F-4D3E-8448-2DF864E679D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A3ACECEE-EDC7-476F-A8DE-FBB63D590718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3ACECEE-EDC7-476F-A8DE-FBB63D590718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3ACECEE-EDC7-476F-A8DE-FBB63D590718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DACFA89-1568-4282-827C-0BD3C32D97BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DACFA89-1568-4282-827C-0BD3C32D97BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DACFA89-1568-4282-827C-0BD3C32D97BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DACFA89-1568-4282-827C-0BD3C32D97BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181F072E-025F-4D3E-8448-2DF864E679D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181F072E-025F-4D3E-8448-2DF864E679D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181F072E-025F-4D3E-8448-2DF864E679D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181F072E-025F-4D3E-8448-2DF864E679D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

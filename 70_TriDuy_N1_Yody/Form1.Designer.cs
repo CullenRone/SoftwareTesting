@@ -38,6 +38,8 @@ namespace _70_TriDuy_N1_Yody
             this.btTestCase2_1 = new System.Windows.Forms.Button();
             this.btTestCase2_2 = new System.Windows.Forms.Button();
             this.btTestCase1_6 = new System.Windows.Forms.Button();
+            this.btTestCase2_3 = new System.Windows.Forms.Button();
+            this.btTestCase2_4 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btTestCase1_1
@@ -145,12 +147,38 @@ namespace _70_TriDuy_N1_Yody
             this.btTestCase1_6.UseVisualStyleBackColor = true;
             this.btTestCase1_6.Click += new System.EventHandler(this.btTestCase1_6_Click);
             // 
+            // btTestCase2_3
+            // 
+            this.btTestCase2_3.AutoSize = true;
+            this.btTestCase2_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btTestCase2_3.Location = new System.Drawing.Point(329, 244);
+            this.btTestCase2_3.Name = "btTestCase2_3";
+            this.btTestCase2_3.Size = new System.Drawing.Size(140, 44);
+            this.btTestCase2_3.TabIndex = 10;
+            this.btTestCase2_3.Text = "TestCase2_3";
+            this.btTestCase2_3.UseVisualStyleBackColor = true;
+            this.btTestCase2_3.Click += new System.EventHandler(this.btTestCase2_3_Click);
+            // 
+            // btTestCase2_4
+            // 
+            this.btTestCase2_4.AutoSize = true;
+            this.btTestCase2_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btTestCase2_4.Location = new System.Drawing.Point(329, 339);
+            this.btTestCase2_4.Name = "btTestCase2_4";
+            this.btTestCase2_4.Size = new System.Drawing.Size(140, 44);
+            this.btTestCase2_4.TabIndex = 11;
+            this.btTestCase2_4.Text = "TestCase2_4";
+            this.btTestCase2_4.UseVisualStyleBackColor = true;
+            this.btTestCase2_4.Click += new System.EventHandler(this.btTestCase2_4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(962, 596);
+            this.Controls.Add(this.btTestCase2_4);
+            this.Controls.Add(this.btTestCase2_3);
             this.Controls.Add(this.btTestCase1_6);
             this.Controls.Add(this.btTestCase2_2);
             this.Controls.Add(this.btTestCase2_1);
@@ -178,6 +206,8 @@ namespace _70_TriDuy_N1_Yody
         private System.Windows.Forms.Button btTestCase2_1;
         private System.Windows.Forms.Button btTestCase2_2;
         private System.Windows.Forms.Button btTestCase1_6;
+        private System.Windows.Forms.Button btTestCase2_3;
+        private System.Windows.Forms.Button btTestCase2_4;
     }
 }
 
