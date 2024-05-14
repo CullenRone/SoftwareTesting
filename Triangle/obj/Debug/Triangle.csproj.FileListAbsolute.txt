@@ -1,0 +1,10 @@
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\bin\Debug\Triangle.exe.config
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\bin\Debug\Triangle.exe
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\bin\Debug\Triangle.pdb
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.Form1.resources
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.exe
+D:\Software Testing\Yody Testing\SoftwareTesting\Triangle\obj\Debug\Triangle.pdb

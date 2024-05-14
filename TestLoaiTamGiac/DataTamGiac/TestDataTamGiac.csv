@@ -1,0 +1,8 @@
+﻿a_70Duy, b_70Duy, c_70Duy, expected
+3.0, 4.0, 5.0, "Day la tam giac vuong!"
+3.0, 3.0, 3.0, "Day la tam giac deu!"
+5.0, 7.0, 5.0, "Day la tam giac can!"
+10.2, 15.2, 22.4, "Day la tam giac tu!"
+9.5, 10.2, 9.9, "Day la tam giac thuong!"
+109.8, 102.3, 2, "Day khong phai la tam giac!"
+150, 103.5, 99, "Day khong phai la tam giac!"
